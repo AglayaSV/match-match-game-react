@@ -1,0 +1,12 @@
+export const DIFFICULTY_HARD = '32';
+export const DIFFICULTY_MEDIUM = '20';
+export const DIFFICULTY_EASY = '12';
+export const RESULTS_URL = 'http://mmg-score.herokuapp.com/';
+export const COUNT_OF_RESULTS = 10;
+export const LOAD_ERROR = 'Unable to load results list';
+export const UPLOAD_ERROR = 'Unable to save result';
+export const DELAY_BEFORE_DISCOVER_CARDS = 600;
+export const DELAY_BEFORE_CLEAR_CSS_BEFORE_ROTATE_BACK = 100;
+export const DELAY_BEFORE_CLEAR_CSS_AFTER_ROTATE_BACK = 900;
+export const DELAY_BEFORE_ROTATE_BACK = 200;
+export const DELAY_BEFORE_VIEW_RESULTS = 1000;
